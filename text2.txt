@@ -7,3 +7,11 @@ git status
 
 "Showing some untrakced file"
 git add text2.txt
+git commit -m"text2.txt"----->(-m na message ena add pana porom nu)
+
+add and commit for local git
+
+aprm push and pull for github la iruka git commit varaikum local git la add aagiruchu,
+github la text2.txt add aagala  so
+ git push origin
+insert ,add,commit,push
