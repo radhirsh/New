@@ -1,0 +1,9 @@
+git install panunom
+git --global user.name "name"
+git --global user.email "xxxxxx"
+git clone "link"
+create new file in cloned file
+git status
+
+"Showing some untrakced file"
+git add text2.txt
