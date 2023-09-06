@@ -15,3 +15,13 @@ aprm push and pull for github la iruka git commit varaikum local git la add aagi
 github la text2.txt add aagala  so
  git push origin
 insert ,add,commit,push
+
+git push origin main nu kudukanum
+#incase edhavadhu local reprositary la edit panunom na adha git repositry ku send pana"
+git add filename
+git commit-m"message"
+git push origin main
+
+#incase git repositary la file create panirundha epidi local repositary ku kondu varadhu"
+git pull
+idha vechu ella file um local ku kondu vandhudalam
